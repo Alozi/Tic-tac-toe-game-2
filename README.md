@@ -2,7 +2,8 @@
 
 This is a Tic-Tac-Toe Game web application built with React. The goal of this project is to improve React skills.
 
-<img width="328" alt="Screenshot of the demo web application" src="https://github.com/Alozi/Tic-tac-toe-game-2/src/assets/screencapture.png">
+![Alt text](/src/assets/screencapture.png)
+<img width="328" alt="Screenshot of the demo web application" src="https://github.com/Alozi/Tic-tac-toe-game-2">
 
 This project was created as part of the Udemy course [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
